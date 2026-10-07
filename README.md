@@ -584,12 +584,17 @@ Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork**
 No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- Prints ou pequenos vídeos das interações com a IA;
+<img width="535" height="777" alt="image" src="https://github.com/user-attachments/assets/c06c4203-ac47-4975-a64e-225dfdb7035f" />
+<img width="1605" height="822" alt="image" src="https://github.com/user-attachments/assets/cba4ffc6-a201-4a1a-b406-cc5fd83949e9" />
+
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  A minha primeira versão do app ficou muito bacana.
+  - O que não funcionou como o esperado?  as funcionaliddes ficaram conforme esperado
+  - O que aprendeu sobre conversar com IAs? Foi muito boa a iteração, adorei apreender vibe coding.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
